@@ -1,0 +1,66 @@
+[
+  {
+    "Type_ID": 0,
+    "Type_Name": "Toàn bộ",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  },
+  {
+    "Type_ID": 1,
+    "Type_Name": "Biển báo cấm",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  },
+  {
+    "Type_ID": 2,
+    "Type_Name": "Biển hiệu lệnh",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  },
+  {
+    "Type_ID": 3,
+    "Type_Name": "Biển chỉ dẫn",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  },
+  {
+    "Type_ID": 4,
+    "Type_Name": "Biển báo nguy hiểm và cảnh báo",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  },
+  {
+    "Type_ID": 5,
+    "Type_Name": "Biển phụ",
+    "Icon": "https://imgithong.thuvienphapluat.vn",
+    "IsDelete": 0
+  }
+]
+(7, 4, 'Beginner', None, None, None, None, None, None, None, None, None, None)
+(8, 4, 'Everyday', None, None, None, None, None, None, None, None, None, None)
+(9, 4, 'At Work', None, None, None, None, None, None, None, None, None, None)
+(10, 4, 'Travel', None, None, None, None, None, None, None, None, None, None)
+(11, 5, 'Everyday', None, None, None, None, None, None, None, None, None, None)
+(12, 5, 'At Work', None, None, None, None, None, None, None, None, None, None)
+(13, 5, 'Friends', None, None, None, None, None, None, None, None, None, None)
+(14, 5, 'Travel', None, None, None, None, None, None, None, None, None, None)
+(15, 6, 'Everyday', None, None, None, None, None, None, None, None, None, None)
+(16, 6, 'Travel', None, None, None, None, None, None, None, None, None, None)
+(17, 6, 'At Work', None, None, None, None, None, None, None, None, None, None)
+(18, 6, 'Friends', None, None, None, None, None, None, None, None, None, None)
+(19, 7, 'At Work', None, None, None, None, None, None, None, None, None, None)
+(20, 7, 'Travel', None, None, None, None, None, None, None, None, None, None)
+(21, 8, 'White House', None, None, None, None, None, None, None, None, None, None)
+(22, 3, 'Eat Clean chuẩn cho người Việt', None, None, None, None, None, None, None, None, None, None)
+(23, 3, 'Tự tay làm 20 loại bánh quy Tết độc đáo', None, None, None, None, None, None, None, None, None, None)
+(24, 3, 'Tự làm 18 loại bánh tại nhà không cần lò nướng', None, None, None, None, None, None, None, None, None, None)
+(25, 3, '20 công thức bánh thuần chay tốt cho sức khỏe', None, None, None, None, None, None, None, None, None, None)
+(26, 2, 'Nghệ thuật làm chủ cảm xúc', None, None, None, None, None, None, None, None, None, None)
+(27, 2, 'Bí quyết lập kế hoạch và triển khai công việc hiệu quả', None, None, None, None, None, None, None, None, None, None)
+(28, 2, 'Đọc vị đối phương trong đàm phán - thương lượng', None, None, None, None, None, None, None, None, None, None)
+(29, 1, 'Khởi nghiệp nên bắt đầu từ đâu', None, None, None, None, None, None, None, None, None, None)
+(30, 1, 'Chinh phục 8 thách thức khi khởi nghiệp', None, None, None, None, None, None, None, None, None, None)
+(31, 1, 'Hậu khởi nghiệp - Tồn tại hay chỉ là hoang tưởng?', None, None, None, None, None, None, None, None, None, None)
+(32, 1, 'Khởi nghiệp và bán hàng trên Internet thành công', None, None, None, None, None, None, None, None, None, None)
+(33, 1, 'Khởi nghiệp thực chiến từ A-Z', None, None, None, None, None, None, None, None, None, None)
+(34, 1, 'CEO Internet', None, None, None, None, None, None, None, None, None, None)
